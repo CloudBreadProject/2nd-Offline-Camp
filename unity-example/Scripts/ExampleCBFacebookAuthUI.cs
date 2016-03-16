@@ -2,7 +2,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using AssemblyCSharp;
-using Facebook.Unity;
 
 public class ExampleCBFacebookAuthUI : MonoBehaviour {
 
