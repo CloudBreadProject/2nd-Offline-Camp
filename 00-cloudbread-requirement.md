@@ -1,5 +1,5 @@
 ###CloudBread 캠프 참여자 준비사항
-이 문서는 1회 유니티 개발자를 위한 CloudBread 캠프 참석 전 미리 수행해야 할 작업들을 소개합니다.
+이 문서는 2회 유니티 개발자를 위한 CloudBread 캠프 참석 전 미리 수행해야 할 작업들을 소개합니다.
 
 1. Microsoft ID 가입 후 체크 : 가입 여부 확인은, https://mail.live.com 에 접속해 메일박스가 보이면 정상 계정입니다. 현장에서 무료로 제공되는 12만원 상당의 Microsoft Cloud 가입에 필수입니다.
 2. Github 가입 : https://github.com/ 에서 가입 하세요.
