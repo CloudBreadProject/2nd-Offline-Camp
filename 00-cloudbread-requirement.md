@@ -9,7 +9,6 @@
 6. Github 설치 : https://desktop.github.com/ 에서 자신의 OS에 맞는 Github 데스크톱을 설치합니다.
 7. SQL Server 2014 클라이언트 : Azure의 SQL Database 관리를 위한 툴입니다. [SQL 2014 다운로드 링크](https://www.microsoft.com/ko-KR/download/details.aspx?id=42299)에서 32비트 또는 64비트 버전에 맞는 관리도구를 다운로드 합니다. “MgmtStudio 32BIT\SQLManagementStudio_**x86**_KOR.exe” 또는, “MgmtStudio 64BIT\SQLManagementStudio_**x64**_KOR.exe”
 8. node.js 설치 https://nodejs.org/en/ 사이트에서 v5.7 이상의 Stable 버전을 설치합니다.(2016년 3월 기준 5.7.1 버전)
-
 9. Visual Studio 커뮤니티 2015 : [Visual Studio 2015 커뮤니티 다운로드](https://www.visualstudio.com/ko-kr/products/visual-studio-community-vs.aspx) 페이지에서 받으실 수 있으며 페이지 하단 용도에 맞게 설치하세요.
 10. Visual Studio 2015 업데이트 : [Visual Studio 업데이트 페이지](https://www.microsoft.com/en-US/download/details.aspx?id=49989)에서 버전에 맞는 설치가 가능합니다.
 11. Azure SDK 2.8 for Visual Studio 2015 설치 : [Azure SDK 다운로드 페이지](https://azure.microsoft.com/en-us/downloads/)에서 VS 2015 버전용 다운로드를 설치 하시면 됩니다.
