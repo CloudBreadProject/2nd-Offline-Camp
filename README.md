@@ -16,3 +16,7 @@ CloudBread는 클라이언트 개발자가 필요로 하는 백엔드 개발시�
 
 CloudBread 프로젝트를 직접 실습해 보기 위해선 준비해둬야 하는 사항이 있습니다.  
 [준비사항 확인](./00-cloudbread-requirement.md)
+
+###CloudBread 실습
+캠프 중간 저희와 함께 CloudBread 를 실습해 보는 시간이 있습니다. 함께 실습을 하기 위한 예제 파일은 Unity-Example 폴더에 있습니다. 어려움을 가지는 분들도 계실 수 있어 영상도 준비했습니다. 어려우시면 영상 보시면서 차근차근 같이 해봐요
+https://youtu.be/3aWLD_V1jaI
