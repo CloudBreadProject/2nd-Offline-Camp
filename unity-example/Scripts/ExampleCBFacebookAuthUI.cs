@@ -39,8 +39,18 @@ public class ExampleCBFacebookAuthUI : MonoBehaviour {
 		ResponseJSonData = "[Error] : " + www.error;
 
 	}
+	
+	/*
+	class AuthData{
+		public string authenticationToken { get; set; }
+		public AzureUserData user { get; set; }
+	}
 
-
+	class AzureUserData{
+		public string userId { get; set; }
+	}
+	*/
+	
 	private Rect _contentAreaRect;
 	private float _contentWidth = 700;
 	private Vector2 scrollPosition;
