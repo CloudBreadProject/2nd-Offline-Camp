@@ -44,7 +44,7 @@ public class ExampleCBFacebookAuthUI : MonoBehaviour {
 	private Rect _contentAreaRect;
 	private float _contentWidth = 700;
 	private Vector2 scrollPosition;
-	private string ResponseJSonData;
+	private string ResponseJSonData = "";
 
 	public void OnGUI()
 	{
